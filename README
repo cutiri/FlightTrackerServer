@@ -1,0 +1,5 @@
+How to:
+
+-   Create a file named .env
+-   Inside the file add this line AIRLABS_APIKEY=
+-   The API key can be obtained from https://airlabs.co
