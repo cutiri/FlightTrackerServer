@@ -26,7 +26,7 @@ The FlightTrackerServer project provides real-time tracking of global flights by
 1. **Clone the Repository**:
    - Clone the FlightTrackerServer repository using Git:
      ```bash
-     git clone https://github.com/your-username/FlightTrackerServer.git
+     git clone https://github.com/cutiri/FlightTrackerServer.git
      ```
    - Navigate to the project directory:
      ```bash
@@ -69,3 +69,8 @@ The FlightTrackerServer project is licensed under the [MIT License](#). See the 
 ## Contact
 
 For questions or support, please contact us at [avillasante@hotmail.com](mailto:avillasante@hotmail.com).
+
+## Authors
+
+- Joseph Noble
+- Angel Villasante
